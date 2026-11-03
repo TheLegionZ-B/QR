@@ -25,10 +25,6 @@
    - Folder: `/ (root)`
 6. กด **Save**
 
-URL จะมีรูปแบบ:
-
-`https://USERNAME.github.io/REPOSITORY/`
-
 ## Privacy
 
 เว็บไซต์ไม่มี Database และไม่มี backend สำหรับบันทึกข้อความที่ผู้ใช้กรอก
